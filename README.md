@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Paia97
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Web Development, Game Development & Graphic Design
 - 🌱 I’m currently learning about Decentralized Applications 
 - 💞️ I’m looking to collaborate on some Web Related Projects
 - 📫 How to reach me paiasltpc@gmail.com
