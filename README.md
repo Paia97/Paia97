@@ -1,4 +1,4 @@
-**👋 Hi, I’m Paia-Ea-Salanmi Sumer Lyngdoh Talang**
+# 👋 Hi, I’m Paia-Ea-Salanmi Sumer Lyngdoh Talang**
 ***
 - 😀 I'm currently working as an IT Support Professional cum Software Programmer for the National Hydrology Project (NHP), Shillong, Meghalaya, India
 - 👀 I’m interested in Web Development, Game Development, Software Development & Graphic Design
