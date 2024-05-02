@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Angular, React, Tailwind CSS, among other frameworks**
 
-- 👯 I’m looking to collaborate on **some Web Related Projects**
+- 🤝 I’m looking to collaborate on **some Web Related Projects**
 
 - 📫 How to reach me **paiasltpc@gmail.com**
 
