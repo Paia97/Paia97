@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **paiasltpc@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1KBy6RHj80RDk_NycVfrlSwQjJaaQiQIl/view?usp=sharing" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1KBy6RHj80RDk_NycVfrlSwQjJaaQiQIl/view?usp=sharing" target="_blank" rel="noreferrer">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
